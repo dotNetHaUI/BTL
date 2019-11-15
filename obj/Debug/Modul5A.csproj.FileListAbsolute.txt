@@ -20,3 +20,15 @@ C:\Users\DUY\Desktop\New folder\Module5A\obj\Debug\Modul5A.PurchaseAmentities.re
 C:\Users\DUY\Desktop\New folder\Module5A\obj\Debug\Modul5A.csproj.GenerateResource.cache
 C:\Users\DUY\Desktop\New folder\Module5A\obj\Debug\Modul5A.exe
 C:\Users\DUY\Desktop\New folder\Module5A\obj\Debug\Modul5A.pdb
+D:\TeamWork .NET Exercise\BTL\bin\Debug\Modul5A.exe.config
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.exe
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.pdb
+D:\TeamWork .NET Exercise\BTL\bin\Debug\Modul5A.exe
+D:\TeamWork .NET Exercise\BTL\bin\Debug\Modul5A.pdb
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.csprojResolveAssemblyReference.cache
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.Login.resources
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.MainOptions.resources
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.Properties.Resources.resources
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.PurchaseAmentities.resources
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.RegisterForm.resources
+D:\TeamWork .NET Exercise\BTL\obj\Debug\Modul5A.csproj.GenerateResource.Cache
